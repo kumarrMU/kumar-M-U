@@ -1,0 +1,30 @@
+body{
+    padding: 0;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    color:rgb(10, 10, 10);
+}
+
+.social-links{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    justify-content: space-around;
+}
+.social-image{
+   width: 4rem;
+   padding: 2rem;
+}
+.main-container{
+    background-color: blue;
+    padding: 2rem;
+    margin: 2rem;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    border: solid black 20px;
+}
